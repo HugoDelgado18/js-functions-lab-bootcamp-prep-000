@@ -1,7 +1,7 @@
 // write your code below!
 const name = 'Leah';
-let holiday = 'Christmas Eve';
-let days = 120;
+let holiday = "Mother's day";
+let days = 20;
 
 function happyHolidays() {
   return 'Happy holidays!';
